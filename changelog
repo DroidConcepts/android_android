@@ -1,0 +1,29 @@
+Droid Concepts v-[Numbering System not yet determined...]
+==================================================================================
+Common Android GingerBread 2.3.3
+Add Widget Picker App
+Add DCWallpapers App
+Switch to DC Camera
+Switch to DC SoundRecorder
+
+
+==================================================================================
+Source code for the Droid Concepts ROM comes from the following locations:
+>     AOSP
+>     CyanogenMod
+>     Droid Concepts
+
+Android GingerBread source with the following exceptions:
+
+Droid Concepts source for the following branches:
+>     android_build
+>     android_device_motorola_sholes
+>     android_packages_apps_WidgetPicker
+>     android_packages_apps_camera
+>     android_packages_apps_DCWallpapers
+>     android_packages_apps_soundrecorder
+
+CyanogenMod source for the following braches:
+>     android_packages_apps_Superuser
+
+
