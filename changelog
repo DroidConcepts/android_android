@@ -1,10 +1,13 @@
-Droid Concepts v-[Numbering System not yet determined...]
+Common Android Froyo 2.2.1
 ==================================================================================
-Common Android GingerBread 2.3.3
-Add Widget Picker App
+Droid Concepts v-F-00.00.01
+
 Add DCWallpapers App
+Add SuperUser app [CM]
+Add Widget Picker App
 Switch to DC Camera
 Switch to DC SoundRecorder
+Switch to DC android_build
 
 
 ==================================================================================
@@ -18,10 +21,11 @@ Android GingerBread source with the following exceptions:
 Droid Concepts source for the following branches:
 >     android_build
 >     android_device_motorola_sholes
->     android_packages_apps_WidgetPicker
 >     android_packages_apps_camera
 >     android_packages_apps_DCWallpapers
 >     android_packages_apps_soundrecorder
+>     android_packages_apps_WidgetPicker
+>     android_vendor_DroidConcepts
 
 CyanogenMod source for the following braches:
 >     android_packages_apps_Superuser
