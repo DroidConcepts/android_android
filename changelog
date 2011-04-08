@@ -14,7 +14,6 @@ Set default 'mms' limit to 25
 Set default 'max recipients' to 15
 Switch to DC Camera
 Switch to DC SoundRecorder
-Switch to DC Settings App
 Switch to DC android_build
 Switch to DC android_frameworks_base
 Switch to DC android_frameworks_polices_base
@@ -39,7 +38,6 @@ Droid Concepts source for the following branches:
 >     android_packages_apps_camera
 >     android_packages_apps_DCWallpapers
 >     android_packages_apps_soundrecorder
->     android_packages_apps_settings
 >     android_packages_apps_WidgetPicker
 >     android_vendor_DroidConcepts
 
