@@ -1,26 +1,34 @@
-Common Android Froyo 2.2.1
+Common Android Froyo 2.2.2
 ==================================================================================
-Droid Concepts v-F-00.00.01
+Droid Concepts - Froyo - Build 04
+>     Fix for Music on-going notification song title
 
-Add reboot/reboot options to shutdown thread
-Add DCWallpapers App
-Add Cyanogen FileManager
-Add SuperUser app [CM]
-Add Widget Picker App [CVPCS]
-Add Sony Laucher
-Add Custom Droid Concepts Bootanimation
-Cut ring delay by '2/3'
-Set default 'wifi scan' to 60 sec
-Set default 'sms' limit to 500
-Set default 'mms' limit to 25
-Set default 'max recipients' to 15
-Switch to DC SoundRecorder
-Switch to DC android_build
-Switch to DC android_frameworks_base
-Switch to DC android_frameworks_polices_base
-Use unique Droid Concepts Vendor setup
-Use unique Droid Concepts Sholes setup
-Use Java 1.6 over 1.5 in android_build
+Droid Concepts - Froyo - Build 03
+>     Fix SuperUser app
+>     Add Sony Launcher
+>     Add Custom Droid Concepts Bootanimation
+>     Change ongoing call/music and download text color to green
+
+
+Droid Concepts - Froyo -Build 02
+>     Fix clock color being black
+>     Add Cyanogen FileManager
+
+Droid Concepts -Froyo - Build 01
+>     Add reboot/reboot options to shutdown thread
+>     Add Custom Droid Concepts Theme
+>     Add Widget Picker App [CVPCS]
+>     Add DCWallpapers App
+>     Change Text colors to Green
+>     Cut ring delay by '2/3'
+>     Set default 'wifi scan' to 60 sec
+>     Switch to DC SoundRecorder
+>     Switch to DC android_build
+>     Switch to DC android_frameworks_base
+>     Switch to DC android_frameworks_polices_base
+>     Use unique Droid Concepts Vendor setup
+>     Use unique Droid Concepts Sholes setup
+>     Use Java 1.6 over 1.5 in android_build
 
 
 ==================================================================================
