@@ -2,6 +2,9 @@ Common Android Froyo 2.2.2
 ==================================================================================
 Droid Concepts - Froyo - Build 04
 >     Fix for Music on-going notification song title
+>     Change default max 'sms' to 500 messages
+>     Change default max 'mms' to 25 messages
+>     Move all super-impose files over to common, except for Droid/sholes specific ones
 
 Droid Concepts - Froyo - Build 03
 >     Fix SuperUser app
