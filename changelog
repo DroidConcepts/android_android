@@ -5,6 +5,7 @@ Droid Concepts - Froyo - Build 04
 >     Change default max 'sms' to 500 messages
 >     Change default max 'mms' to 25 messages
 >     Move all super-impose files over to common, except for Droid/sholes specific ones
+>     Move Sony Launcher to optional Apps
 
 Droid Concepts - Froyo - Build 03
 >     Fix SuperUser app
@@ -40,7 +41,7 @@ Source code for the Droid Concepts ROM comes from the following locations:
 >     CyanogenMod
 >     Droid Concepts
 
-Android GingerBread source with the following exceptions:
+Android Froyo source with the following exceptions:
 
 Droid Concepts source for the following branches:
 >     android_build
