@@ -1,5 +1,9 @@
 Common Android Froyo 2.2.2
 ==================================================================================
+Droid Concepts - Froyo - Build 05
+>     Switch to CyanogenMod Phone
+>     SwitCH TO CyanogenMod Contacts
+
 Droid Concepts - Froyo - Build 04
 >     Fix for Music on-going notification song title
 >     Change default max 'sms' to 500 messages
@@ -56,6 +60,9 @@ Droid Concepts source for the following branches:
 
 
 CyanogenMod source for the following braches:
+>     android_packages_apps_Contacts
+>     android_packages_apps_Phone
 >     android_packages_apps_Superuser
+
 
 
