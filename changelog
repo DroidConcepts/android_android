@@ -1,8 +1,10 @@
 Common Android Froyo 2.2.2
 ==================================================================================
 Droid Concepts - Froyo - Build 05
+>     Add File Mananger app from CyanogenMod to source
 >     Switch to CyanogenMod Phone
->     SwitCH TO CyanogenMod Contacts
+>     Switch to CyanogenMod Contacts
+>     Switch to Droid Concepts settings app over AOSP
 
 Droid Concepts - Froyo - Build 04
 >     Fix for Music on-going notification song title
@@ -53,6 +55,7 @@ Droid Concepts source for the following branches:
 >     android_frameworks_base
 >     android_frameworks_policies_base
 >     android_packages_apps_DCWallpapers
+>     android_packages_apps_Settings
 >     android_packages_apps_soundrecorder
 >     android_packages_apps_WidgetPicker
 >     android_system_extras
@@ -61,6 +64,7 @@ Droid Concepts source for the following branches:
 
 CyanogenMod source for the following braches:
 >     android_packages_apps_Contacts
+>     android_packages_apps_FileMananger
 >     android_packages_apps_Phone
 >     android_packages_apps_Superuser
 
