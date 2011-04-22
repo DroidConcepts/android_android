@@ -5,8 +5,11 @@ Droid Concepts - Froyo - Build 05
 >     Add Droid Concepts Contacts
 >     Add Droid Concepts Protips
 >     Add Droid Concepts DeskClock
+>     Add Droid Concepts Calendar
+>     Add Droid Concepts Music
+>     Add Droid Concepts MMS
+>     Add Droid Concepts Android Settings 
 >     Add File Mananger app from CyanogenMod to source
->     Switch to Droid Concepts modded settings app
 
 Droid Concepts - Froyo - Build 04
 >     Fix for Music on-going notification song title
@@ -56,10 +59,13 @@ Droid Concepts source for the following branches:
 >     android_device_motorola_sholes
 >     android_frameworks_base
 >     android_frameworks_policies_base
+>     android_packages_apps_Calendar
 >     android_packages_apps_Contacts
 >     android_packages_apps_DCWallpapers
 >     android_packages_apps_DeskClock
 >     android_packages_apps_DroidConceptsSettings
+>     android_packages_apps_Mms
+>     android_packages_apps_Music
 >     android_packages_apps_Phone
 >     android_packages_apps_Protips
 >     android_packages_apps_Settings
