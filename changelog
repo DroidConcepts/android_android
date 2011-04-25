@@ -3,6 +3,10 @@ Common Android Froyo 2.2.2
 Droid Concepts - Froyo - Build 06
 >     Add new wallpapers to DCWallpapers App
 >     Add send on enter to mms app
+>     Add custom LED options to mms app
+>     Add custom vibrate options to mms app
+>     Fix all the issues I introduced with build 04/05 [I forgot something very simple, renaming a file a changed, thats what caused the auto bright, and other probelms]
+
 
 Droid Concepts - Froyo - Build 05
 >     Add bootanimation binary from R2D2 [Thanks for the tip djakrse]
