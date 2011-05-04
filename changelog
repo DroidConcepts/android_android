@@ -6,6 +6,7 @@ Droid Concepts - Froyo - Build 07
 >     Modified ramdisk added permissions and performance tweaks [system_core; Mister E]
 >     Add built in CPU scaling to Droid Concepts Settings [MisterE]
 >     Add Droid Concepts Settings into ROM
+>     Change Desk Clock screensaver color to match system colors
 
 Droid Concepts - Froyo - Build 06
 >     Add new wallpapers to DCWallpapers App
@@ -67,6 +68,7 @@ Droid Concepts -Froyo - Build 01
 ==================================================================================
 Source code for the Droid Concepts ROM comes from the following locations:
 >     AOSP
+>     ChainsDD
 >     CyanogenMod
 >     Droid Concepts
 
