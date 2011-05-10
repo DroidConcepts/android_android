@@ -1,12 +1,16 @@
 Common Android Froyo 2.2.2
 ==================================================================================
 Droid Concepts - Froyo - Build 08
->     Add app option to view list of app permissions. [FireFart]
+>     [settings [clarify]
+>     Add option for max alarm duration to alarm settings app
+>     Add screensaver timeout option to alarm settings app [velazcod]
+>     Add option to customize the color of the screensaver time [velazcod]
+>     Add options to lock home and messaging app in memory via DCS
 
 Droid Concepts - Froyo - Build 07
 >     HTC Themed Settings app [Thanks for the suggestion djakrse]
 >     Switch to Droid Concepts system_core
->     Modified ramdisk added permissions and performance tweaks [system_core; Mister E]
+>     Modified ramdisk added permissions and performance tweaks [Mister E]
 >     Add built in CPU scaling to Droid Concepts Settings [MisterE]
 >     Add Droid Concepts Settings into ROM
 >     Change Desk Clock screensaver color to match system colors
