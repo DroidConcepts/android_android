@@ -6,6 +6,8 @@ Droid Concepts - Froyo - Build 08
 >     Add screensaver timeout option to alarm settings app [velazcod]
 >     Add option to customize the color of the screensaver time [velazcod]
 >     Add options to lock home and messaging app in memory via DCS
+>     Switch to DC Browser
+>     Add fullscreen option to browser [Wysie]
 
 Droid Concepts - Froyo - Build 07
 >     HTC Themed Settings app [Thanks for the suggestion djakrse]
@@ -89,6 +91,7 @@ Droid Concepts source for the following branches:
 >     android_device_motorola_sholes
 >     android_frameworks_base
 >     android_frameworks_policies_base
+>     android_packages_apps_Browser
 >     android_packages_apps_Calendar
 >     android_packages_apps_Contacts
 >     android_packages_apps_DCWallpapers
