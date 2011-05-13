@@ -1,7 +1,11 @@
 Common Android Froyo 2.2.2
 ==================================================================================
+Droid Concepts - Froyo - Build 09
+>     Built in CPU scaling is now working, needed to be running as a system app not user thanks CVPCS
+>     Linked 'Development', 'Spare Parts', and 'Terminal' into DCS and removed them from launcher
+>     Added new 'About ROM' section into the settings app [BRAND NEW, NO ONE ELSE HAS THIS, Droid Concepts Exclusive]
+
 Droid Concepts - Froyo - Build 08
->     [settings [clarify]
 >     Add option for max alarm duration to alarm settings app
 >     Add screensaver timeout option to alarm settings app [velazcod]
 >     Add option to customize the color of the screensaver time [velazcod]
