@@ -1,11 +1,18 @@
 Common Android Froyo 2.2.2
-==================================================================================
-Droid Concepts - Froyo - Build 09
+==================================
+Build 10
+>     Add option to view changelog, credits, and license in DCS
+
+
+Build 09
 >     Built in CPU scaling is now working, needed to be running as a system app not user thanks CVPCS
 >     Linked 'Development', 'Spare Parts', and 'Terminal' into DCS and removed them from launcher
 >     Added new 'About ROM' section into the settings app [BRAND NEW, NO ONE ELSE HAS THIS, Droid Concepts Exclusive]
+>     Updated all Google Apps to the FRG83G OTA
+>     Updated all proprietary files to the FRG83D OTA
 
-Droid Concepts - Froyo - Build 08
+
+Build 08
 >     Add option for max alarm duration to alarm settings app
 >     Add screensaver timeout option to alarm settings app [velazcod]
 >     Add option to customize the color of the screensaver time [velazcod]
@@ -17,7 +24,8 @@ Droid Concepts - Froyo - Build 08
 >     Add ability to change font size in messaging app [takuo] 
 >     Add option for blackbackground in mms [jeagoss]
 
-Droid Concepts - Froyo - Build 07
+
+Build 07
 >     HTC Themed Settings app [Thanks for the suggestion djakrse]
 >     Switch to Droid Concepts system_core
 >     Modified ramdisk added permissions and performance tweaks [Mister E]
@@ -28,7 +36,8 @@ Droid Concepts - Froyo - Build 07
 >     Add 2 more custom screen timeouts [5, and 15 minutes]
 >     Built Droid Concepts Settings into stock settings app
 
-Droid Concepts - Froyo - Build 06
+
+Build 06
 >     Add new wallpapers to DCWallpapers App
 >     Add send on enter to mms app
 >     Add custom LED options to mms app
@@ -38,7 +47,7 @@ Droid Concepts - Froyo - Build 06
 >     Switch to superuser app/binary from ChainsDD
 
 
-Droid Concepts - Froyo - Build 05
+Build 05
 >     Add bootanimation binary from R2D2 [Thanks for the tip djakrse]
 >     Add Droid Concepts Phone[CyTown, no DC mods yet]
 >     Add Droid Concepts Contacts
@@ -50,25 +59,28 @@ Droid Concepts - Froyo - Build 05
 >     Add Droid Concepts Android Settings 
 >     Add File Mananger app from CyanogenMod to source
 
-Droid Concepts - Froyo - Build 04
+
+Build 04
 >     Fix for Music on-going notification song title
 >     Change default max 'sms' to 500 messages
 >     Change default max 'mms' to 25 messages
 >     Move all super-impose files over to common, except for Droid/sholes specific ones
 >     Move Sony Launcher to optional Apps
 
-Droid Concepts - Froyo - Build 03
+
+Build 03
 >     Fix SuperUser app
 >     Add Sony Launcher
 >     Add Custom Droid Concepts Bootanimation
 >     Change ongoing call/music and download text color to green
 
 
-Droid Concepts - Froyo -Build 02
+Build 02
 >     Fix clock color being black
 >     Add Cyanogen FileManager
 
-Droid Concepts -Froyo - Build 01
+
+Build 01
 >     Add reboot/reboot options to shutdown thread
 >     Add Custom Droid Concepts Theme
 >     Add Widget Picker App [CVPCS]
@@ -85,7 +97,7 @@ Droid Concepts -Froyo - Build 01
 >     Use Java 1.6 over 1.5 in android_build
 
 
-==================================================================================
+==================================
 Source code for the Droid Concepts ROM comes from the following locations:
 >     AOSP
 >     ChainsDD
