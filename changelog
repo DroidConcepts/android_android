@@ -1,138 +1,196 @@
 Common Android Froyo 2.2.2
 ==================================
 Build 10
->     Add option to view changelog, credits, and license in DCS
+> Add option to view changelog, 
+  credits, and license in DCS
 
 
 Build 09
->     Built in CPU scaling is now working, needed to be running as a system app not user thanks CVPCS
->     Linked 'Development', 'Spare Parts', and 'Terminal' into DCS and removed them from launcher
->     Added new 'About ROM' section into the settings app [BRAND NEW, NO ONE ELSE HAS THIS, Droid Concepts Exclusive]
->     Updated all Google Apps to the FRG83G OTA
->     Updated all proprietary files to the FRG83D OTA
+> Built in CPU scaling is now 
+  working, needed to be running 
+  as a system app not user thanks
+  CVPCS
+> Linked 'Development', 
+  'Spare Parts', and 'Terminal' 
+  into DCS and removed them from 
+  launcher
+> Added new 'About ROM' section 
+  into the settings app [BRAND 
+  NEW, NO ONE ELSE HAS THIS, 
+  Droid Concepts Exclusive]
+> Updated all Google Apps to the 
+  FRG83G OTA
+> Updated all proprietary files 
+  to the FRG83D OTA
 
 
 Build 08
->     Add option for max alarm duration to alarm settings app
->     Add screensaver timeout option to alarm settings app [velazcod]
->     Add option to customize the color of the screensaver time [velazcod]
->     Add options to lock home and messaging app in memory via DCS
->     Switch to DC Browser
->     Add fullscreen option to browser [Wysie]
->     Add ability to choose where to save mms messages [wesgarner]
->     Add option to allow sms/mms vibrate on call [temporalshadows]
->     Add ability to change font size in messaging app [takuo] 
->     Add option for blackbackground in mms [jeagoss]
+> Add option for max alarm 
+  duration to alarm settings app
+> Add screensaver timeout option 
+  to alarm settings app 
+  [velazcod]
+> Add option to customize the 
+  color of the screensaver time 
+  [velazcod]
+> Add options to lock home and 
+  messaging app in memory via DCS
+> Switch to DC Browser
+> Add fullscreen option to 
+  browser [Wysie]
+> Add ability to choose where to 
+  save mms messages [wesgarner]
+> Add option to allow sms/mms 
+  vibrate on call
+> Add ability to change font size 
+  in messaging app [takuo] 
+> Add option for blackbackground 
+  in mms [jeagoss]
 
 
 Build 07
->     HTC Themed Settings app [Thanks for the suggestion djakrse]
->     Switch to Droid Concepts system_core
->     Modified ramdisk added permissions and performance tweaks [Mister E]
->     Add built in CPU scaling to Droid Concepts Settings [MisterE]
->     Add Droid Concepts Settings into ROM
->     Change Desk Clock screensaver color to match system colors
->     Add option to disable USB debugging notifiction
->     Add 2 more custom screen timeouts [5, and 15 minutes]
->     Built Droid Concepts Settings into stock settings app
+> HTC Themed Settings app
+> Switch to Droid Concepts 
+  system_core
+> Modified ramdisk added 
+  permissions and performance 
+  tweaks [Mister E]
+> Add built in CPU scaling to 
+  Droid Concepts Settings 
+  [MisterE]
+> Add Droid Concepts Settings 
+  into ROM
+> Change Desk Clock screensaver 
+  color to match system colors
+> Add option to disable USB 
+  debugging notifiction
+> Add 2 more custom screen 
+  timeouts [5, and 15 minutes]
+> Built Droid Concepts Settings 
+  into stock settings app
 
 
 Build 06
->     Add new wallpapers to DCWallpapers App
->     Add send on enter to mms app
->     Add custom LED options to mms app
->     Add custom vibrate options to mms app
->     Fix all the issues I introduced with build 04/05
->     Change ongoing call notification to match system values
->     Switch to superuser app/binary from ChainsDD
+> Add new wallpapers to 
+  DCWallpapers App
+> Add send on enter to mms app
+> Add custom LED options to mms 
+  app
+> Add custom vibrate options to 
+  mms app
+> Fix all the issues I introduced 
+  with build 04/05
+> Change ongoing call notification 
+  to match system values
+> Switch to superuser app/binary 
+  from ChainsDD
 
 
 Build 05
->     Add bootanimation binary from R2D2 [Thanks for the tip djakrse]
->     Add Droid Concepts Phone[CyTown, no DC mods yet]
->     Add Droid Concepts Contacts
->     Add Droid Concepts Protips
->     Add Droid Concepts DeskClock
->     Add Droid Concepts Calendar
->     Add Droid Concepts Music
->     Add Droid Concepts MMS
->     Add Droid Concepts Android Settings 
->     Add File Mananger app from CyanogenMod to source
+> Add bootanimation binary from 
+  R2D2 [djakrse]
+> Add Droid Concepts Phone
+  [CyTown, no DC mods yet]
+> Add Droid Concepts Contacts
+> Add Droid Concepts Protips
+> Add Droid Concepts DeskClock
+> Add Droid Concepts Calendar
+> Add Droid Concepts Music
+> Add Droid Concepts MMS
+> Add Droid Concepts Android 
+  Settings 
+> Add File Mananger app from 
+  CyanogenMod to source
 
 
 Build 04
->     Fix for Music on-going notification song title
->     Change default max 'sms' to 500 messages
->     Change default max 'mms' to 25 messages
->     Move all super-impose files over to common, except for Droid/sholes specific ones
->     Move Sony Launcher to optional Apps
+> Fix for Music on-going 
+  notification song title
+> Change default max 'sms' to 
+  500 messages
+> Change default max 'mms' to 
+  25 messages
+> Move all super-impose files 
+  over to common, except for 
+  Droid/sholes specific ones
+> Move Sony Launcher to optional 
+  Apps
 
 
 Build 03
->     Fix SuperUser app
->     Add Sony Launcher
->     Add Custom Droid Concepts Bootanimation
->     Change ongoing call/music and download text color to green
+> Fix SuperUser app
+> Add Sony Launcher
+> Add Custom Droid Concepts 
+  Bootanimation
+> Change ongoing call/music and 
+  download text color to green
 
 
 Build 02
->     Fix clock color being black
->     Add Cyanogen FileManager
+> Fix clock color being black
+> Add Cyanogen FileManager
 
 
 Build 01
->     Add reboot/reboot options to shutdown thread
->     Add Custom Droid Concepts Theme
->     Add Widget Picker App [CVPCS]
->     Add DCWallpapers App
->     Change Text colors to Green
->     Cut ring delay by '2/3'
->     Set default 'wifi scan' to 60 sec
->     Switch to DC SoundRecorder
->     Switch to DC android_build
->     Switch to DC android_frameworks_base
->     Switch to DC android_frameworks_polices_base
->     Use unique Droid Concepts Vendor setup
->     Use unique Droid Concepts Sholes setup
->     Use Java 1.6 over 1.5 in android_build
+> Add reboot/reboot options to 
+  shutdown thread
+> Add Custom Droid Concepts Theme
+> Add Widget Picker App [CVPCS]
+> Add DCWallpapers App
+> Change Text colors to Green
+> Cut ring delay by '2/3'
+> Set default 'wifi scan' to 
+  60 sec
+> Switch to DC SoundRecorder
+> Switch to DC android_build
+> Switch to DC 
+  android_frameworks_base
+> Switch to DC 
+  android_frameworks_polices_base
+> Use unique Droid Concepts 
+  Vendor setup
+> Use unique Droid Concepts 
+  Sholes setup
+> Use Java 1.6 over 1.5 in 
+  android_build
 
 
 ==================================
 Source code for the Droid Concepts ROM comes from the following locations:
->     AOSP
->     ChainsDD
->     CyanogenMod
->     Droid Concepts
+> AOSP
+> ChainsDD
+> CyanogenMod
+> Droid Concepts
 
 Android Froyo source with the following exceptions:
 
 Droid Concepts source for the following branches:
->     android_build
->     android_device_motorola_sholes
->     android_frameworks_base
->     android_frameworks_policies_base
->     android_packages_apps_Browser
->     android_packages_apps_Calendar
->     android_packages_apps_Contacts
->     android_packages_apps_DCWallpapers
->     android_packages_apps_DeskClock
->     android_packages_apps_DroidConceptsSettings
->     android_packages_apps_Mms
->     android_packages_apps_Music
->     android_packages_apps_Phone
->     android_packages_apps_Protips
->     android_packages_apps_Settings
->     android_packages_apps_soundrecorder
->     android_packages_apps_WidgetPicker
->     android_system_core
->     android_vendor_DroidConcepts
+> android_build
+> android_device_motorola_sholes
+> android_frameworks_base
+> android_frameworks_policies_base
+> android_packages_apps_Browser
+> android_packages_apps_Calendar
+> android_packages_apps_Contacts
+> android_packages_apps_DCWallpapers
+> android_packages_apps_DeskClock
+> android_packages_apps_DroidConceptsSettings
+> android_packages_apps_Mms
+> android_packages_apps_Music
+> android_packages_apps_Phone
+> android_packages_apps_Protips
+> android_packages_apps_Settings
+> android_packages_apps_soundrecorder
+> android_packages_apps_WidgetPicker
+> android_system_core
+> android_vendor_DroidConcepts
 
 ChainsDD source for the following branches:
->     su_binary
->     Superuser
+> su_binary
+> Superuser
 
 CyanogenMod source for the following braches:
->     android_packages_apps_FileMananger
+> android_packages_apps_FileMananger
 
 
 
