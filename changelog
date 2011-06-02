@@ -4,14 +4,24 @@ Build 10
 > Add option to view changelog, 
   credits, and license in 
   ROM Info via settings
+> Add EULA for DCS
 > Add user configurable VM heap
 > Add option for battery % to be
   displayed in the pulldown bar
+> Add ability for custom color of 
+  battery %
 > Add options for user controlled
-  text/notification colors
+  text/notification colors [Wysie]
 > Add abiltiy to rotate the 
   screen full 360 degrees
-> 
+> Add ability for user defined 
+  notification bar/pull-down
+  [mtwebster]
+> Add Galaxy S style power widget
+  [Pedlar/Davros]
+> Change eri text from
+  'Verizon Wireless' to 
+  'Droid Concepts'
 
 
 Build 09
