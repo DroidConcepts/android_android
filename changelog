@@ -1,5 +1,15 @@
 Common Android Froyo 2.2.2
 ==================================
+Build 11
+> Fix CPU not setting on boot
+> Finshed DCS 'Extra Tweaks'
+  section, now you can load/save
+  themes from/to your SD Card
+> Add ability to kill an app via
+  long press of the 'back' button
+> 
+
+
 Build 10
 > Add option to view changelog, 
   credits, and license in 
