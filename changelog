@@ -8,6 +8,8 @@ Build 11
 > Add ability to kill an app via
   long press of the 'back' button
 > Remove SD Card read ahead
+> Fix some memory leaks with the
+  Galaxy S power widget
 
 
 Build 10
