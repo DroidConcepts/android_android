@@ -1,5 +1,18 @@
 Common Android Froyo 2.2.2
 ==================================
+Build 12
+> Power widget now disappears
+  when you choose not to use it
+  [reboot needed]
+> init.d support has been added
+> lockscreen music controls
+> Always on option for lockscreen
+  music controls
+> Music controls working with 
+  all apps [pandora, stock,
+  google music, etc.]
+
+
 Build 11
 > Fix CPU not setting on boot
 > Finshed DCS 'Extra Tweaks'
